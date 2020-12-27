@@ -1,6 +1,6 @@
 # This is the second Udacity project for the Android developer program with Kotlin.
 
-## Below are all the requirements that I have had for the project to be admitted.
+## Below are all the requirements that must be met for the project to be admitted.
 
 # Project Title
 
